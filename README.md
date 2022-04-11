@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anders Åberg. Former CTO at Caspeco, now working on Product & Engeineering at [Binary Brains](https://binarybrains.ai/).
+I'm Anders Åberg. Working on Product & Engeineering at [Binary Brains](https://binarybrains.ai/), former CTO at [Caspeco](https://www.caspeco.se/).
 I belive in the web as a platform and I want to defating phishing attacks with WebAuthn and FIDO2 at [Passwordless.dev](https://passwordless.dev).
 
 - ⚡ Creator & maintainer of [fido2-net-lib](https://github.com/passwordless-lib/fido2-net-lib) a open source WebAuthn/FIDO2 Server, now part of the [.net foundation](https://dotnetfoundation.org/)
