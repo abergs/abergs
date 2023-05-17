@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anders Åberg. I work on Passwordless at Bitwarden, formerly Product & Engineering at [Binary Brains](https://binarybrains.com/) and CTO at [Caspeco](https://www.caspeco.se/).
+I'm Anders Åberg. I work on Passwordless at [Bitwarden](https://bitwarden.com), formerly Product & Engineering at [Binary Brains](https://binarybrains.com/) and CTO at [Caspeco](https://www.caspeco.se/).
 I believe in the web as a platform and I want to defeat phishing attacks with WebAuthn and FIDO2 at [Passwordless.dev](https://passwordless.dev).
 
 - ⚡ Creator & maintainer of [fido2-net-lib](https://github.com/passwordless-lib/fido2-net-lib) a open source WebAuthn/FIDO2 Server, now part of the [.net foundation](https://dotnetfoundation.org/)
